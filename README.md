@@ -2,7 +2,7 @@
 
 In this course, you will learn about the basics of the C programming language. Essential concepts such as variables, and we will discuss data types. You will also learn about the different types of operators available in the C language. Then we will jump to control statements such as if, if-else, loops, and switch-case. Later, you will learn important concepts such as Arrays and functions. How to use Strings in C will be discussed. Lastly, you will learn Structures and Union in a program and the pointer's
 
-# Course Outline
+# <div align="center">Course Outline</div>
 
 ## Intro to C
 ```C programming is a powerful, general-purpose, procedural, mid-level programming language for developing system application softwares. So let's see what are the different features and understand the steps involved in writing the first program in  C.```
