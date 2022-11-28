@@ -5,7 +5,7 @@ In this course, you will learn about the basics of the C programming language. E
 # <div align="center">Course Outline</div>
 
 ## Intro to C
-```C programming is a powerful, general-purpose, procedural, mid-level programming language for developing system application softwares. So let's see what are the different features and understand the steps involved in writing the first program in  C.```
+```C programming is a powerful, general-purpose, procedural, mid-level programming language for developing system application softwares. So let's see what are the different features and understand the steps involved in writing the first program in C.```
 ## Variables in C
 ```Variable is the name given to memory location where value is not fixed always. Let's see how to define a variable with the help of an example and understand the scope of the variable.```
 ## Data Type in C
