@@ -5,6 +5,9 @@
 ### C is a widely used and popular programming language for developing system application software.
 ### It can be called as a mid-level programming language.
 
+![c](https://user-images.githubusercontent.com/108541991/204263826-f095125e-df96-46bd-b495-f08d29e3296f.png)
+
+
 # <div align="center"> Features of C </div>
 
 ### Easy to learn
