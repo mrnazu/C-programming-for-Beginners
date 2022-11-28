@@ -1,15 +1,19 @@
-#include <stdint.h>
-
-int main(){
-    int sum1 = 100 + 50;        // 150 (100 + 50)
-    int sum2 = sum1 + 250;      // 400 (150 + 250)
-    int sum3 = sum2 + sum2;     // 800 (400 + 400) 
-
-// example 2
-
-    int x = 5;
-    int y = 3;
-    printf("%d", x > y); // returns 1 (true) because 5 is greater than 3 
-
+// Working of arithmetic operators
+#include <stdio.h>
+int main()
+{
+    int a = 9,b = 4, c;
+    
+    c = a+b;
+    printf("a+b = %d \n",c);
+    c = a-b;
+    printf("a-b = %d \n",c);
+    c = a*b;
+    printf("a*b = %d \n",c);
+    c = a/b;
+    printf("a/b = %d \n",c);
+    c = a%b;
+    printf("Remainder when a divided by b = %d \n",c);
+    
     return 0;
 }
