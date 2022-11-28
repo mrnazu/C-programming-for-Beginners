@@ -1,5 +1,8 @@
 ## Conditional Statements in C programming are used to make decisions based on the conditions. Conditional statements execute sequentially when there is no condition around the statements. If you put some condition for a block of statements, the execution flow may change based on the result evaluated by the condition.
 
+![maxresdefault](https://user-images.githubusercontent.com/108541991/204302535-c6d3185a-23ba-4722-ae40-de093d2cf896.jpg)
+
+
 ### The if statement:-
 #### Use if to specify a block of code to be executed, if a specified condition is true
 ```
