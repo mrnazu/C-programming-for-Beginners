@@ -26,7 +26,8 @@ int main(){
 return 0;
 }
 ```
-![algo-main](https://user-images.githubusercontent.com/108541991/204264465-35878c3e-eb13-4a4e-b2fe-f385a5ba0c67.jpg)
+<img width=300 src="https://user-images.githubusercontent.com/108541991/204264465-35878c3e-eb13-4a4e-b2fe-f385a5ba0c67.jpg" alt="c code" align="right">
+
 
 
 # <div align="center">Comments</div>
