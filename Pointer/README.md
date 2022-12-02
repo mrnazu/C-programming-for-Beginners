@@ -17,6 +17,7 @@ int main (){
 int a = 20;
 int *p = &a;
 ```
-<img>
+
+![pointer](https://user-images.githubusercontent.com/108541991/205320732-33e99288-a60e-4187-890b-4959f58912bf.jpg)
 
 
