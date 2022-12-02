@@ -4,6 +4,8 @@
 #### Every element in an array has a specified index.
 #### Size of an array in C is fixed at the time of definition
 
+![Arrays-in-C-Programming-2](https://user-images.githubusercontent.com/108541991/205313917-e0b70ed1-ea38-4d6d-aefc-e28f54931162.png)
+
 
 # Definition:
 #### An array can be defined in the following manner in C:
